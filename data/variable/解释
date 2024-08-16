@@ -1,0 +1,21 @@
+树木覆盖-2024_tree_canopy_borough_ward_stats（基于2021）
+人口密度-land-area-population-density-london（有2021）
+区内住宅家庭的百分比和数量，可进入至少一个指定类型空间的开放空间，以及每个区内有公共通道和没有公共通道的开放空间的数量/比例。-access-public-open-space-ward（2014）
+单个开放空间统计（可以通过统计每个ward里开放空间的数量来计算比例）- GiGL_SpacesToVisit
+失业率/工作率？-mb-unemployment-rates（2021）lmregtabli01february2023（2021）（只有行政区）【Economic Activity（2021）（挑出两个变量用）】
+健康率-General health（2021）
+贫困指数--代码	姓名
+1	家庭在任何方面都不会被剥夺
+2	家庭在一个维度上被剥夺
+3	家庭在两个维度上受到剥夺
+4	家庭在三个维度上受到剥夺
+5	家庭在四个维度上受到剥夺
+-8	不适用*Household deprivation
+
+教育- GCSE 分数(只有2013）
+
+土地利用种类-land-use-glud-ward
+
+Y：绿地覆盖率
+X：犯罪数量
+混淆：数目覆盖 人口密度 开放空间率 失业率 健康率 贫困指数 教育指数 土地利用种类（商业/...)
